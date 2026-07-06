@@ -1,0 +1,6 @@
+{
+  "name": "Game Studio Command Center",
+  "description": "AI-Powered Game Development Intelligence Platform - Interactive Enterprise Portfolio & Mentorship Command Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
